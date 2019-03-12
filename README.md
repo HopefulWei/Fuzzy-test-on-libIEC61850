@@ -9,7 +9,7 @@ MMS_update.py is used to fuzz on libIEC61850 by sending MMS packets. It is an im
 ```
 ### MMS_update.py
 ```
-# sudo python MMS.py -ip 127.0.0.1
+# sudo python MMS_update.py -ip 127.0.0.1
 Please input byte number:
 byte_number(1,2,3....)
 ```
